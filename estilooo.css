@@ -1,0 +1,75 @@
+* {
+	box-decoration-break: slice;
+}
+
+header {
+	background-color: blanchedalmond;
+	border-style: inherit;
+	border-radius: 20px;
+	padding: 5px;
+	text-align: center;
+}
+
+footer {
+	background-color: lightpink;
+	border-style: double;
+	border-radius: 20px;
+	padding: 5px;
+	text-align: center;
+}
+
+body {
+	background-image: url(img/foto.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	background-color: paleturquoise;
+	text-align: center;
+	border-color: paleturquoise;
+	border-radius: 10px;
+}
+}
+
+
+.main img{
+
+width: 0.3%;
+	float: center;
+	border-radius: 0.2px;
+}
+.main {
+	height: 20px;
+}
+
+img {
+	transition: all 0.5s linear;
+	border-style: solid;
+	border-color: white;
+	border-radius: 30px;
+}
+
+img {
+	transition: all 0.5s linear;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+	background-image: url(img/foto11.jpg);
+}
+
+img {
+	transition: all 0.5s linear;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+	background-image: url(img/foto16.jpg);
+	width: 100%;
+	height: 900px;
+}
+
+

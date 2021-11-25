@@ -1,0 +1,17 @@
+.separador1 {
+	height: 2px;
+	clear: both;
+}
+
+.separador2 {
+	width: 0.9%;
+	height: 2px;
+	float: left;
+}
+
+.main labiales {
+	width: 10%;
+	float: left;
+	border-radius: 40px;
+}
+
